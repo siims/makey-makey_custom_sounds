@@ -1,4 +1,4 @@
-Small python program to be used with makey-makey. Just add image files to folder images and audio files to folder sounds. Add files on the run.
+Small python program to be used with makey-makey (http://makeymakey.com/) that I made to use with my kid. Just add image files to folder images and audio files to folder sounds. Add files on the fly.
 
 Press arrow keys or space. Exit with ESC key. What sound can you hear and what picture can you see?
 Rewire key events like you want.
