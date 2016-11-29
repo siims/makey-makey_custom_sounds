@@ -1,0 +1,17 @@
+Small python program to be used with makey-makey. Just add image files to folder images and audio files to folder sounds. Add files on the run.
+
+Press arrow keys or space. Exit with ESC key. What sound can you hear and what picture can you see?
+Rewire key events like you want.
+
+NB! Dependancies:
+ * python 2.7
+ * opencv
+ * currently audio is played with the help of operation system and vlc command line tool
+
+ How to install dependencies on linux platform? (ubuntu)
+ sudo apt-get install python-opencv python2.7 vlc
+ 
+ RUN IT!
+ in project folder run 'main.py' file with python
+ (command line: 'python main.py')
+ 
